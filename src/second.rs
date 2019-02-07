@@ -93,8 +93,6 @@ impl<'a, T> Iterator for Iter<'a, T> {
     }
 }
 
-
-
 mod test {
     use super::*;
 
